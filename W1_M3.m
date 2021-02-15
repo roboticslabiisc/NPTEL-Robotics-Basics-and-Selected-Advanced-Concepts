@@ -5,7 +5,7 @@
 clc
 clear
 
-F = imread('colors.png');
+F = imread('colors.png'); % The image is saved as 'colors.png'
 
 disp(F(1561,1399,:));
 
