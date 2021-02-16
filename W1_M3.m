@@ -2,6 +2,7 @@
 % Robotics: Basics and Selected Advanced Concepts 
 % Code by : Soumya Kanti Mahapatra, PhD Student
 % Dept. of Mechanical Engineering, IISc Bangalore.
+% Week 1 : MCQ Question 3
 clc
 clear
 
