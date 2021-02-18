@@ -9,4 +9,6 @@ W3_M2 : Means --  Week 3 - MCQ/MSQ/NM Question 2
 
 W3_S2 : Means --  Week 3 - Subjective Question 2
 
+The codes were written and run in MATLAB® 2020a. A few places in the code may need to be changed if they are run in any older version.
+
 Main authour(s) : Soumya Kanti Mahapatra
